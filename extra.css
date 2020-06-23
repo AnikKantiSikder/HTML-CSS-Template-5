@@ -1,0 +1,53 @@
+
+
+
+//Content part three
+
+
+.content_partthree{
+    float: left;
+    border: 1px solid black;
+    height: 100px;
+    width: 100%;
+}
+
+.browser{
+    float: left;
+    border: 1px solid white;
+    height: 100px;
+    width: 10%;
+    margin-left: 5px;
+    background-color: red;
+}
+.email{
+    float: left;
+    border: 1px solid white;
+    height: 100px;
+    width: 10%;
+    margin-left: 5px;
+    background-color: orangered;
+}
+.calender{
+    float: left;
+    border: 1px solid white;
+    height: 100px;
+    width: 20%;
+    margin-left: 5px;
+    background-color: dodgerblue;
+}
+.skydrive{
+    float: left;
+    border: 1px solid white;
+    height: 100px;
+    width: 10%;
+    margin-left: 5px;
+    background-color: lawngreen;
+}
+.media{
+    float: left;
+    border: 1px solid white;
+    height: 100px;
+    width: 35.5%;
+    margin-left: 95px;
+    background-color: yellow;
+}
